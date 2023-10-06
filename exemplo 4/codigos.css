@@ -1,0 +1,44 @@
+h1{
+    color: rgb(0, 26, 255);
+    text-align: center;
+    font-size: 45px;
+
+}
+#um{
+    color:green;
+    text-align: center;
+    font-size: 30px;
+}
+#dois{
+    color: aqua;
+    text-align: center;
+    font-size: 50px;
+}
+#tres{
+    color: gold;
+    text-align: center;
+    font-size: 55px;
+}
+#quatro{
+    color: darkviolet;
+    text-align: center;
+    font-size: 355px;
+}
+
+#quadrado{
+    width: 100px; /* comprimento*/
+    height: 50px; /*altura*/
+    background-color: red; /* cor de fundo*/
+}
+
+#quadrado2{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(23, 24, 22); /* cor de fundo*/
+}
+
+.basico{  width: 80px; 
+    height: 110px; 
+    background-color: rgb(243, 9, 21);
+
+}
